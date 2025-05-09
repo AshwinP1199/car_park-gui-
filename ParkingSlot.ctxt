@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ParkingSlot
+comment1.params=slotIdentifier
+comment1.target=ParkingSlot(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getSlotIdentifier()
+comment3.params=
+comment3.target=Car\ getParkedCar()
+comment4.params=car
+comment4.target=void\ parkCar(Car)
+comment5.params=
+comment5.target=Car\ removeCar()
+comment6.params=
+comment6.target=java.time.LocalDateTime\ getParkingStartTime()
+comment7.params=parkingStartTime
+comment7.target=void\ setParkingStartTime(java.time.LocalDateTime)
+comment8.params=
+comment8.target=java.time.LocalDateTime\ getParkingEndTime()
+comment9.params=parkingEndTime
+comment9.target=void\ setParkingEndTime(java.time.LocalDateTime)
+numComments=10

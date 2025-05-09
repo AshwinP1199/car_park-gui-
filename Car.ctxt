@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=make\ model\ year\ licensePlate
+comment1.target=Car(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment10.params=
+comment10.target=boolean\ isLicensePlateValid()
+comment11.params=
+comment11.target=void\ setParkingTime()
+comment12.params=
+comment12.target=java.time.LocalDateTime\ getParkingTime()
+comment2.params=
+comment2.target=java.lang.String\ getMake()
+comment3.params=make
+comment3.target=void\ setMake(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getModel()
+comment5.params=model
+comment5.target=void\ setModel(java.lang.String)
+comment6.params=
+comment6.target=int\ getYear()
+comment7.params=year
+comment7.target=void\ setYear(int)
+comment8.params=
+comment8.target=java.lang.String\ getLicensePlate()
+comment9.params=licensePlate
+comment9.target=void\ setLicensePlate(java.lang.String)
+numComments=13
